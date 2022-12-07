@@ -20,16 +20,16 @@
    e)Borrowers repay automatically<br>
    f)Investors earn and reinvest<br>
    
-- The current business problem is going to make it easier to decide whether to give loans to customers or not, based on analysis from the data set
-The data set used has 39000+ applicants information including whether they defaulted or not
+- The current business problem is going to make it easier to decide whether to give loans to customers or not, based on analysis from the data set<br>
+- The data set used has 39000+ applicants information including whether they defaulted or not
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
 - Company can promote giving loans to Grade A applicants more and avoid grade F applicants
 - Company can reduce giving loans to applicants whose purpose of loan is small business
-- company can avoid applciants who have publicly known bankruptcy records
-- Avoid giving loans to applciants with DTI greater than 25
+- Company can avoid applcants who have publicly known bankruptcy records
+- Avoid giving loans to applicants with DTI greater than 25
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
