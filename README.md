@@ -44,14 +44,13 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
+
+- inspired by Kaggle, UXAX
 - This project was based on courses taken from upgrad
 
 
 ## Contact
-Created by @maheshkrishna33- feel free to contact me! maheshkrishna33@gmail.com, absvarkey@gmail.com
+Created by @Abs Varkey @maheshkrishna33- feel free to contact us! maheshkrishna33@gmail.com, absvarkey@gmail.com
 
 
 <!-- Optional -->
