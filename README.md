@@ -13,12 +13,12 @@
 ## General Information
 - The analysis should help the company understand the driving factors behind loan default
 - How Lending club works:<br>
-   a)Borrowers apply for loans<br>
-   b)Investors open an account<br>
-   c)Borrowers get funded<br>
-   d)Investors build a portfolio<br>
-   e)Borrowers repay automatically<br>
-   f)Investors earn and reinvest<br>
+   a) Borrowers apply for loans<br>
+   b) Investors open an account<br>
+   c) Borrowers get funded<br>
+   d) Investors build a portfolio<br>
+   e) Borrowers repay automatically<br>
+   f) Investors earn and reinvest<br>
    
 - The current business problem is going to make it easier to decide whether to give loans to customers or not, based on analysis from the data set<br>
 - The data set used has 39000+ applicants information including whether they defaulted or not
